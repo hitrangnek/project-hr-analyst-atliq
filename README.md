@@ -15,7 +15,7 @@ This project solved a critical business pain point for the HR team at AtliQ Tech
 * Sick leave increased in **late May and early June**. This may have been caused by seasonal weather changes and the spread of common viruses.
 * Attendance dropped to its lowest point (**77.92%**) in **mid-May**. During the same period, both WFH and sick leave rates increased.
 
-## Final Conclusion
+## Recommendations
 
 * **Optimize office space:** Since many employees work from home on Fridays, the company could introduce an optional Friday WFH policy. This could reduce office space usage by up to 13% and lower costs for unused workspace.
 
