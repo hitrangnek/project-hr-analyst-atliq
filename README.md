@@ -10,3 +10,4 @@ This project solved a critical business pain point for the HR team at AtliQ Tech
 * Generated actionable insights and business recommendations to support workforce planning, office space optimization, and hybrid work policy decisions.
 ## Dashboard
 https://raw.githubusercontent.com/hitrangnek/project-hr-analyst-atliq/main/screenshot-dashboard.png
+https://github.com/hitrangnek/project-hr-analyst-atliq/blob/main/screenshot-dashboard.png
