@@ -8,5 +8,5 @@ This project solved a critical business pain point for the HR team at AtliQ Tech
 * Developed key performance indicators (KPIs) to track employee attendance, work-from-home (WFH) adoption, and sick leave (SL) trends.
 * Designed an interactive Power BI dashboard to visualize attendance trends, WFH distribution by day of the week, and sick leave patterns over time.
 * Generated actionable insights and business recommendations to support workforce planning, office space optimization, and hybrid work policy decisions.
-** Dashboard
+## Dashboard
 https://raw.githubusercontent.com/hitrangnek/project-hr-analyst-atliq/main/screenshot-dashboard.png
