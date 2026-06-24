@@ -1,4 +1,5 @@
-# 📊 Hybrid Workforce Attendance Analysis ( Interactive Dashboard creation using Powerbi)
+# 📊 Hybrid Workforce Attendance Analysis 
+## ( Interactive Dashboard creation using Powerbi)
 ## Problem Statement
 The HR team stored attendance data in three separate monthly files, making it difficult to monitor employee attendance and hybrid work behavior. They needed a centralized solution to track WFH/WFO trends, analyze sick leave patterns, optimize office space usage, and support workforce planning decisions.
 
