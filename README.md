@@ -11,10 +11,11 @@ The HR team stored attendance data in three separate monthly files, making it di
 ## Dataset use
 [Download raw-data.xlsx](https://github.com/hitrangnek/project-hr-analyst-atliq/blob/main/raw-data.xlsx)
 ## Action Workflow
-* Consolidated and cleaned attendance data from three monthly files using Power Query to create a centralized dataset.
-* Developed key performance indicators (KPIs) to track employee attendance, work-from-home (WFH) adoption, and sick leave (SL) trends.
-* Designed an interactive Power BI dashboard to visualize attendance trends, WFH distribution by day of the week, and sick leave patterns over time.
-* Generated actionable insights and business recommendations to support workforce planning, office space optimization, and hybrid work policy decisions.
+* Combined attendance data from three monthly files into one centralized dataset to create a single source.
+*  Verify data for any missing values and anomalies, and sort out the same.
+* Standardized the data to ensure all dates, categories, and values were consistent and easy to analyze.
+* Created key metrics to measure employee attendance, work-from-home (WFH) usage, and sick leave trends.
+* Design an interactive dashboard to visualize attendance trends, WFH distribution by day of the week, and sick leave patterns over time
 
 ## Insights
 * The average attendance rate was **91.76%**. Employees worked from home **9.93%** of the time, while the average sick leave rate was **1.10%**.
