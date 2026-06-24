@@ -16,7 +16,6 @@ This project solved a critical business pain point for the HR team at AtliQ Tech
 * Attendance dropped to its lowest point (**77.92%**) in **mid-May**. During the same period, both WFH and sick leave rates increased.
 
 ## Final Conclusion
-### Business Recommendations
 
 * **Optimize office space:** Since many employees work from home on Fridays, the company could introduce an optional Friday WFH policy. This could reduce office space usage by up to 13% and lower costs for unused workspace.
 
