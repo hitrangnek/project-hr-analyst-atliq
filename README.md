@@ -10,10 +10,11 @@ This project solved a critical business pain point for the HR team at AtliQ Tech
 * Generated actionable insights and business recommendations to support workforce planning, office space optimization, and hybrid work policy decisions.
 
 ## Insights
-* Overall average attendance hit 91.76%, with a 9.93% average WFH adoption rate and 1.10% average sick leave rate.
-* Friday and Thursday had the highest WFH adoption rates (12.96% and 11.34% respectively), while Monday and Tuesday had the lowest WFH rates and highest in-office attendance.
-* Sick leave rates spiked in late May and early June, likely tied to seasonal weather changes and virus spread during the transition between spring and summer.
-* Attendance rates dipped to a 3-month low of 77.92% in mid-May, with a corresponding jump in WFH and sick leave usage that month.
+* The average attendance rate was **91.76%**. Employees worked from home **9.93%** of the time, while the average sick leave rate was **1.10%**.
+* **Friday (12.96%)** and **Thursday (11.34%)** had the highest work-from-home (WFH) rates. In contrast, **Monday** and **Tuesday** had the lowest WFH rates and the highest number of employees working in the office.
+* Sick leave increased in **late May and early June**. This may have been caused by seasonal weather changes and the spread of common viruses.
+* Attendance dropped to its lowest point (**77.92%**) in **mid-May**. During the same period, both WFH and sick leave rates increased.
+
 
 ## Dashboard
 ![Dashboard Preview](./screenshot-dashboard.png)
